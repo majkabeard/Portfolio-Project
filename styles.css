@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #b4d7cl;
+  background: #EEF0E8;
 }
 /* Link Styles */
 
@@ -18,7 +18,7 @@ a {
   color: white;
 }
 a:hover {
-  color: #b4d7cl;
+  color: #0D291A;
 }
 
 /* Section Styles */
